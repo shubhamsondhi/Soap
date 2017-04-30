@@ -1,0 +1,132 @@
+﻿body {
+}
+
+#message {
+
+color:red;
+font-weight:900;
+font-size:1.5em;
+}
+.sidebar-nav li a h3 {
+color: #ffffff;
+font: normal 36px 'Cookie', cursive;
+margin: 0;
+
+}
+.sidebar-nav li a h3 span {
+    color: #bf136d;
+        /*color: #5383d3;*/
+    }
+header span { color: #bf136d;
+}
+.sidebar-nav .color {
+
+    color: #bf136d;
+    font-size:larger;
+    font-weight:bolder;
+}
+header{
+	text-align: center;
+    border-bottom:2px solid #292c2f ;
+	margin-bottom:10px;
+}
+
+header h1{
+	font: normal 32px/1.5 'Open Sans', sans-serif;
+	
+	padding-bottom: 16px;
+}
+
+.row img {
+    
+}
+.img-center {
+	margin: 0 auto;
+}
+
+.hero-spacer {
+    margin-top: 50px;
+}
+
+.hero-feature {
+    
+max-width:400px;
+max-height:400px;
+margin-top:2px;
+margin-bottom: 30px;
+}
+.prodect-margin {
+margin-top:20px;
+}
+   
+
+.bg_ic {
+
+    width:100%
+
+
+}
+.i img {
+   position:relative;
+   /*left:-250px;*/
+width:102%
+}
+.bg_ic .c {
+  
+    width: 30%;
+    
+    position: absolute;
+    top: 25%;
+    left:40%;
+}
+
+.c .row {color:white;
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-size: 1.5em;
+    box-shadow: black 5px 8px 20px;
+    border: #bf136d 5px solid;
+    padding: 10px 10px 20px 20px;
+    border-radius: 5px;
+    background: rgba(255,255,255,0.3);
+}
+
+/*end upper part of header------------------------------------*//**/
+/*--------------------------products in colume -------------------------*/
+
+.product{border:1px solid black;
+         margin-left:20px;
+    margin-top: 40px;
+    box-shadow: #292c2f  2px 2px 2px ;    
+    padding: 22px 22px 15px 22px;
+}
+.product img
+{width:100%;
+ height:180px;
+ margin-top:20px;
+ padding-right:0px;
+ 
+    border-right: #808080 1px solid;
+}
+    .product hr {
+    
+    padding:0;
+    margin:0;
+    margin-bottom:10px;
+    
+    }
+    /*--------------------------------end of products in colum-------------------*/
+
+
+
+    /*----------------------------simple products---------------------------*/
+
+
+
+    /*----------------------------end of simple products---------------------------*/
+
+
+.footer ul li {
+float:left;
+padding-left:20px;
+}
